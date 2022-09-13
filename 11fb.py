@@ -9,7 +9,7 @@ def psb(z):
 
 
 os.system('clear')
-psb('\x1b[1;32mBANGLADESH TALHA 11 DIGIT CLONING START PLEASE WAIT ..........')
+psb('\x1b[1;32mBANGLADESH  11 DIGIT CLONING START By Girgiti Gaming PLEASE WAIT ..........')
 for n in range(9999):
     nmbr = random.randint(1111111, 9999999)
     sys.stdout = open('.txt', 'a')
@@ -72,9 +72,9 @@ def menu():
     os.system('clear')
     print logo
     print ''
-    print 'AUTHOR   : TALHA ISLAM'
-    print 'FACEBOOK : TERMUX TEACHER TALHA'
-    print 'GITHUB     : github.com/TERMUXTALHA'
+    print 'AUTHOR   : GIRGITI GAMING'
+    print 'FACEBOOK : Girgiti GAMING'
+    print 'telegram     : https://t.me/girgitigamingyt'
     print ''
     print 50* '-'
     print '[1]  \x1b[1;96mGP'
